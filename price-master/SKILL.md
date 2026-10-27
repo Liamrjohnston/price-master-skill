@@ -1,7 +1,7 @@
 ---
 name: price-master
 description: Raise your prices without losing the clients worth keeping. For service businesses and freelancers. Paste your rates, hours, costs and client list; it works out what each client really pays you per hour, checks whether price is the real problem, sets the new number from your own figures with the maths shown, shows how much work you could lose and still come out ahead, decides who gets the new price and when (new clients, existing clients, the big one you can't afford to lose, the ones it is fine to let go), and writes the exact message for each group plus replies for pushback. No invented market rates, no fake reasons or deadlines, no promise that nobody leaves.
-version: 1.3.0
+version: 1.5.0
 ---
 
 # Price Master
@@ -14,7 +14,7 @@ Your job: find out what this owner is really earning, client by client, set a ne
 
 1. **Check the problem before the price.** A headline rate rise is the wrong fix when the real leak is a few clients paying far less per hour than everyone else, scope that crept past the fee, costs the owner has wrong, or one client so big a blanket rise risks the business. Find which it is from the numbers first.
 2. **Every number comes from the owner, or is labelled.** Mark figures (yours) when the owner gave them, (calc) when you worked them out, (estimate) when you assumed them. Show the working so the owner can check it in ten seconds. If a fact is missing, use [N] and say what to fill in.
-3. **Check your own arithmetic.** Work each total two ways (per client and in total, monthly and yearly). Build every scenario row line by line (hours x rate, then the sum) before you write the total. A wrong figure the owner acts on does more damage than no advice. If the owner's own maths is wrong, say so plainly and show the correct figure.
+3. **Check your own arithmetic.** Work each total two ways (per client and in total, monthly and yearly). Build every scenario row line by line before you write the total, and show the parts in the table (for example "$700 + $840 + $560 = $2,100"), so the owner can check each sum. A wrong figure the owner acts on does more damage than no advice. If the owner's own maths is wrong, say so plainly and show the correct figure.
 4. **Never fill a gap with your own goal.** If the owner didn't give a take-home target, tax rate or hours, don't pick one. Use their current figures, or write [N] and show the formula so they can fill it in.
 5. **Dates you can stand behind.** Never guess the year. Use a date the owner gave, or the current date if you know it, otherwise write dates as "[date], about 60 days from when you send this". Every date in the plan, the messages and the pushback replies must match.
 6. **Never invent the market.** No "the going rate is", "you're below market", "most bookkeepers charge", competitor prices or industry averages unless the owner supplied them with a source. If they want a comparison, tell them how to get a real one. Never invent a competing offer, a waitlist, a testimonial or a result.
@@ -70,9 +70,10 @@ Stagger dates where it lowers risk: new clients first, then standard existing, t
 
 ## Step 4: Write the messages
 
-Read [references/messages-and-pushback.md](references/messages-and-pushback.md). One message per group that needs one, in the owner's voice and usual channel:
+Read [references/messages-and-pushback.md](references/messages-and-pushback.md). One message per group that needs one, in the owner's voice and usual channel, built from the experts' moves in that file:
 
-- Under about 120 words. New price and the date in the same sentence. One true reason, taken from the brief (never a fact the owner didn't state, such as how long since the last rise). What stays the same. Thanks for the work together. An easy way to reply or talk.
+- Start with them, then what they already get (real tasks from the brief), then the reason owned by the owner, then the new price and date with the difference in the smallest unit, then what stays the same, then an honest way through. Under about 130 words. Warm, confident, plain: it should sound like a real owner, not a template.
+- Every fact comes from the brief: the tasks, the tenure, the reason, any flexibility, how busy they are. If the brief doesn't list tasks, name the service plainly. Never invent one.
 - Key clients: a short note to book the call, plus the points for the call. Not the price in an email first.
 - Re-scope clients: name the change in the work, then the price that fits it, or the smaller scope that fits the old fee.
 - No apology, no cost lecture, no invented value claims, no deadline pressure.
@@ -116,11 +117,13 @@ Use these headings, in this order. Tables where they help. About 600 to 900 word
 - [ ] The main problem is named with numbers, and the plan fixes that problem.
 - [ ] The new number is built from the owner's figures, with working, labelled.
 - [ ] Break-even is shown and fits the business (revenue-only for solo time work, margin-aware with staff or materials).
-- [ ] Every total is checked two ways, and every scenario row is built line by line.
+- [ ] Every total is checked two ways, every scenario row shows its parts, and I re-added each one.
+- [ ] Capacity claims (fully booked, waitlist, turning work away) appear only if the brief says so.
+- [ ] Every pushback reply matches the plan.
 - [ ] No goal, tax rate or hours I made up; gaps are [N].
 - [ ] Every date is one the owner gave or clearly a placeholder, and the plan, messages and pushback replies use the same dates.
 - [ ] Clients are grouped, with dates. Any client near 25% of revenue gets a call and their own timing.
-- [ ] Every message gives the price and date together, one true reason stated in the brief (I checked the brief says it), and is under about 120 words.
+- [ ] Every message names real work from the brief, owns the reason, gives price, date and the difference in the smallest unit, offers an honest way through, and one true reason stated in the brief (I checked the brief says it), and is under about 120 words.
 - [ ] Notice periods counted in days from the send date, and they meet the contract terms.
 - [ ] If losing the big client would wipe out the whole gain, I said so.
 - [ ] No market rates, competitor prices, invented offers, false reasons, fake deadlines or testimonials.

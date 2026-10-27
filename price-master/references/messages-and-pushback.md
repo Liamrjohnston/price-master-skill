@@ -1,13 +1,20 @@
 # Messages and pushback
 
-## What every price message does
+## The price letter, built from the experts
 
-1. Opens with thanks or the relationship, in one line, not a paragraph.
-2. Gives the new price and the date in the same sentence. "From 1 March my monthly fee for your books will be $X."
-3. Gives one true reason in plain words, taken from what the owner told you. Shapes that work when they're true: how long since the last rise (only if the owner said), "the work has grown since we agreed the fee", "I'm raising my team's pay", "I'm keeping my client list smaller so each client gets more time". Never state a fact the owner didn't give you.
-4. Says what stays the same (the service, the person doing it, the turnaround).
-5. Offers an easy way to talk. "Happy to jump on a call if you want to go through it."
-6. Stops. Under about 120 words.
+A price letter should read like it came from an owner who respects the client and is sure of the work. Build it from these moves, in this order, using only facts from the owner's brief:
+
+1. **Start with them, not you** (Hormozi: the letter is about the client). One line on the work you do together, named specifically. "Thanks for trusting me with Harbourline's books for four years."
+2. **What they already get** (Hormozi: clients rarely see half of what you do). Name two or three real things the owner does for this client, **only if the brief names them** ("bank recs, payables, HST filings, month-end reports"). If the brief doesn't list tasks, visit frequency or extras, name the service in the owner's own words ("looking after your offices") and stop. Never invent a task, a schedule, a visit count or a perk.
+3. **Own the reason** (Cohen: honest and personal, and the underpricing is your doing, not theirs). The true reason in plain words, owned by the owner. "I've kept my rate at $55 for three years, and that's on me." Never blame costs, inflation, a law or "the market" for the owner's choice.
+4. **The price, the date and the difference** (Dunn and Stark: never retroactive, always with notice; Hormozi: quote the smallest unit). New price and date in one sentence, then the change in the smallest honest unit, worked out from the brief: "$50 more a month" or "about $12 a week" (calc).
+5. **What stays the same** (or what improves, only if the owner said it will). One line, specific to this client.
+6. **An honest way through** (Enns and Weiss: options, not haggling; Hormozi: a private route for real hardship). If the owner has a real smaller scope, offer it as the one alternative. If the owner said they're open to working something out, add a short private line: "If this puts you in a tough spot, call me and we'll talk." Otherwise just invite a call or reply.
+7. **Thanks, signed as the owner.** Warm, plain, no corporate phrases.
+
+Under about 130 words. It should sound like a confident owner talking to someone they like working with: warm, direct, not stiff, never grovelling.
+
+**Key clients hear it first** (Enns: the client should never read a price before hearing it from you). Book the call; the letter confirms what was said.
 
 ## What it never does
 
@@ -23,7 +30,7 @@
 ## Message shapes
 
 **Standard existing (message or email)**
-> Hi [name], thanks for another good year working on [their thing]. From [date], my rate for [the work] will be [new price], up from [old price]. [One true reason.] Everything else stays the same: [what stays]. If you'd like to talk it through, just reply and we'll find a time. Thanks, [owner]
+> Hi [name], thanks for trusting me with [their thing] for [tenure]. Each month I [two or three real tasks from the brief]. [The owned reason, e.g. "I've kept my rate at [old] for [years], and that's on me."] From [date], my rate will be [new], so your monthly fee goes from [old fee] to [new fee], about [difference in the smallest unit]. You'll still get [what stays, specific]. [The honest way through, if the owner has one.] Happy to talk it through any time. Thanks, [owner]
 
 **Re-scope**
 > Hi [name], when we agreed [old fee] the work was [old scope]. It's now [current scope], about [hours] a month. From [date], the fee for the current work will be [new price]. If you'd rather keep the fee nearer where it is, I can [smaller scope the owner can deliver] for [price]. Let me know which suits you.
@@ -43,7 +50,7 @@ Match the owner's usual tone and channel. Text messages are shorter; letters can
 
 ## Pushback replies
 
-Short, friendly, firm. Only options the owner actually has.
+Short, friendly, firm. Only options the owner actually has. Every reply must match the plan above: don't say "everyone moves to the same rate" if some clients get a different path, and don't claim longer notice, a held rate or a gesture the plan doesn't give.
 
 | They say | Reply shape |
 |---|---|

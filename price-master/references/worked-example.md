@@ -56,8 +56,8 @@ Break-even: $50 to $60 is a 20% rise, so you could lose 0.20 / 1.20 = **16.7% of
 
 **Send these.**
 
-Standard:
-> Hi [name], thanks for another good year looking after the garden. From 1 March my rate will be $60 an hour, so your monthly fee will be $[new]. I'm now fully booked and turning work away, so this is where my prices need to be. Everything else stays the same: same day, same care. Happy to chat if you want to go through it. Thanks, Sam
+Standard (Riverside Cafe shown):
+> Hi [name], thanks for having me look after the cafe garden. Every visit I mow, edge, weed the beds and keep the patio planters going. I'm fully booked and turning work away, and my prices haven't kept up with that, which is on me. From 1 March my rate will be $60 an hour, so your monthly fee goes from $900 to $1,080, about $42 a week more. You'll still get me on the same day every week. Happy to talk it through any time. Thanks, Sam
 
 Delaney and Murray:
 > Hi [name], from 1 March my rate will be $60 an hour, which makes your monthly visit $[new]. If you'd rather keep the cost nearer where it is, I can do a shorter visit covering [the essentials] for $[price]. And if neither suits, that's completely fine; I'll leave you notes on the garden for whoever takes over. Thanks for having me.

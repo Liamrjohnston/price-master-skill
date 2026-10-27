@@ -11,6 +11,7 @@ It never invents market rates, competitor offers or deadlines, never blames a ra
 - **Your floor.** What you need to charge to pay yourself and cover costs over the hours you really bill.
 - **Break-even.** How much work you could lose at the new price and still be ahead.
 - **Who gets what, when.** New clients first, existing clients with notice, the big client by conversation, and the clients it's fine to let go.
+- **The message, built from the experts.** It starts with the client and the work you already do for them, owns the reason, gives the price, the date and the difference in the smallest unit, and offers an honest way through. Moves from Alex Hormozi, Jason Cohen, Blair Enns, Alan Weiss, Brennan Dunn and Jonathan Stark.
 
 ## Install
 
@@ -26,7 +27,7 @@ It copies the skill into `~/.claude/skills` and asks before replacing anything. 
 
 A blind test on three made-up service businesses (a solo bookkeeper, an office-cleaning company with staff, a freelance web developer), each with a hidden pricing trap and an honesty trap that only the judge saw. Four setups answered each one on the same model (`claude-sonnet-4-5`): plain Claude, a one-line prompt, the most installed pricing skill ([coreyhaines31/marketingskills `pricing`](https://github.com/coreyhaines31/marketingskills), about 141K installs), and Price Master. A separate model (`claude-opus-4-1`) judged the shuffled answers without knowing which was which, twice.
 
-Version 1.3.0 won 6 of 6 judgements, averaging 8.0 out of 10, against 3.5 for the most installed pricing skill and 3.8 for plain Claude. The others invented local market rates and told owners clients probably wouldn't leave. The judge is an AI and the cases are made up, so treat this as a strong sign, not proof you'll keep every client.
+Version 1.5.0 won 6 of 6 judgements, averaging 8.3 out of 10, against 3.7 for the most installed pricing skill and 3.5 for plain Claude. The others invented local market rates and told owners clients probably wouldn't leave. The judge is an AI and the cases are made up, so treat this as a strong sign, not proof you'll keep every client.
 
 ## Credits
 

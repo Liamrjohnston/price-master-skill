@@ -21,3 +21,5 @@ Price Master is written in our own words. It learned from these skills, books an
 - **Ron Baker**, *Implementing Value Pricing* and VeraSage articles: never justify a rise with your costs, bad customers drive out good ones, protect capacity for your best clients.
 - **Alan Weiss**, *Value-Based Fees* (official Wiley excerpt and contents) and alanweiss.com: convert existing clients by adding value and options, review the bottom 15% of clients every two years, no concession without something in return.
 - **David C. Baker** with Blair Enns, 2Bobs podcast "Firing a Client" (2021): around two months' notice, a referral and a clean handover when letting a client go.
+- **Brennan Dunn**, "How To Tell Your Clients You're Raising Your Rates" (Double Your Freelancing, 2016, updated 2022): give notice and a better service before the price changes, never negotiate the rate, only the scope.
+- **Jonathan Stark**, "How NOT to Raise Your Prices" (2026) and "Cost Increases" (2022): never raise retroactively, and don't make cost increases the reason.
